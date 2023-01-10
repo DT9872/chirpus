@@ -1,0 +1,78 @@
+body {
+  background-color: #f9fafc;
+  font-family: Open Sans;
+}
+button {
+  background-color: #000;
+  font-family: Open Sans;
+  color: #fff;
+  width: 100%;
+  border-radius: 25px;
+  padding: 5px;
+}
+button :hover {
+}
+.chirpus {
+  color: #000;
+}
+header nav ul li {
+  list-style-type: none;
+}
+header nav ul li a {
+  color: #69696a;
+  list-style-type: none;
+  font-family: open sans;
+  background-color: #f9fafc;
+  text-decoration: none;
+  list-style-type: none;
+  padding: 0px 10px;
+}
+main {
+  padding-left: 5px;
+}
+p {
+  color: #69696a;
+  font-family: open sans;
+  border-left: 6px solid #69696a;
+  padding-left: 15px;
+}
+footer {
+  background-color: rgba(247, 193, 162, 0.7) !important;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 0px 5px;
+  display: inline-flex;
+}
+#links {
+  color: #69696a;
+  font-family: open sans;
+  display: flex;
+  justify-content: right;
+  text-align: right;
+  float: right;
+  position: relative;
+  right: 0;
+  bottom: 0;
+  background-color: transparent !important;
+}
+footer h3 {
+  padding-left: 5px;
+}
+footer ul li {
+  list-style-type: none;
+  padding: 15px 15px;
+  background-color: none;
+  float: right;
+  text-align: right;
+  display: inline-flex;
+  justify-content: right;
+  position: relative;
+  right: -250px;
+}
+footer ul li a {
+  color: #69696a;
+  text-decoration: none;
+  list-style-type: none;
+}
